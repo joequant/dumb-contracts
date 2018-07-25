@@ -1,0 +1,14 @@
+Please fill out the following template for each mandate to assess and structure the chances of a successful deal
+0) Agent name
+1) buy/sell
+2) required discount/premium before fees
+3) discount/premium after fees
+4) Private/individual
+5) targeted amount (kBTC)
+6) Pof/poc available?
+7) country
+8) bank country
+9) special escrow request?
+10) direct with mandate?
+11) If not, how many people are in between to the actual buyer/seller?
+12) Special process request?
